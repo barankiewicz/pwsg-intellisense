@@ -18,12 +18,7 @@ namespace lab3
         List<string> names;
 
         int startPosition;
-        char last;
-        int textLen;
-        bool back = false;
         string word = "";
-        string clicked_word = "";
-        string format = "";
         string font = "Calibri";
         Color color = Color.Black;
 
@@ -33,7 +28,6 @@ namespace lab3
             descending = false;
             names = new List<string>();
             startPosition = 0;
-            textLen = 0;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -83,26 +77,6 @@ namespace lab3
             refreshList(namesList, names);
             sr.Close();
             fs.Close();
-        }
-
-        private void textBox_TextChanged(object sender, EventArgs e)
-        {
-            ////INTELLISENSE HERE
-            //if (back)
-            //{
-            //    back = false;
-            //    return;
-            //}
-            //if (names.Count == 0) return;
-            //var nam = intellisense.Items.Cast<string>().ToList();
-            //List<string> filtered = filterList(nam, textBox.Text.Substring(startPosition));
-            //refreshListAsync(intellisense, filtered);
-            //if(filtered.Count == 0)
-            //{
-            //    startPosition = textBox.SelectionStart;
-            //    intellisense.Hide();
-            //    refreshListAsync(intellisense, names);
-            //}
         }
 
         private void textBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -197,11 +171,6 @@ namespace lab3
                         break;
                 }
             }
-        }
-
-        private void intellisense_PreviewKeyDown(object sender, PreviewKeyDownEventArgs e)
-        {
-            return;
         }
 
         private void sfd_FileOk(object sender, CancelEventArgs e)
@@ -470,11 +439,6 @@ namespace lab3
             contextMenuStrip.Items[0].Text = "Add ";
         }
 
-        private void toolStripComboBox_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void toolStripComboBox_DropDownClosed(object sender, EventArgs e)
         {
             if (toolStripComboBox.SelectedItem == null)
@@ -486,30 +450,25 @@ namespace lab3
             textBox.SelectAll();
 
             // Set font of selected text
-            // You can use FontStyle.Bold | FontStyle.Italic to apply more than one style
             
             textBox.SelectionFont = new Font(toolStripComboBox.SelectedItem.ToString(), 12, st);
             font = toolStripComboBox.SelectedItem.ToString();
             textBox.SelectionColor = color;
-            
 
             // Set cursor after selected text
             textBox.SelectionLength = 0;
-
             textBox.SelectionStart = selstart;
         }
 
         private void toolStrip1_DragEnter(object sender, DragEventArgs e)
         {
             var toolStrip = (ToolStrip)sender;
-
             MessageBox.Show(toolStrip.Dock.ToString());
         }
 
         private void toolStrip1_DragLeave(object sender, EventArgs e)
         {
             var toolStrip = (ToolStrip)sender;
-
             MessageBox.Show(toolStrip.Dock.ToString());
 
         }
@@ -517,7 +476,6 @@ namespace lab3
         private void toolStrip1_DragDrop(object sender, DragEventArgs e)
         {
             var toolStrip = (ToolStrip)sender;
-
             MessageBox.Show(toolStrip.Dock.ToString());
 
         }
@@ -525,12 +483,7 @@ namespace lab3
         private void toolStrip1_DragOver(object sender, DragEventArgs e)
         {
             var toolStrip = (ToolStrip)sender;
-
             MessageBox.Show(toolStrip.Dock.ToString());
-        }
-
-        private void textBox_MouseClick(object sender, MouseEventArgs e)
-        {
         }
 
         private FontStyle getFontStyle()

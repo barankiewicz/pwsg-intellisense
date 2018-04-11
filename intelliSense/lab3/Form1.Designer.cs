@@ -115,7 +115,6 @@
             this.textBox.Size = new System.Drawing.Size(808, 436);
             this.textBox.TabIndex = 1;
             this.textBox.Text = "";
-            this.textBox.MouseClick += new System.Windows.Forms.MouseEventHandler(this.textBox_MouseClick);
             this.textBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_KeyPress);
             this.textBox.PreviewKeyDown += new System.Windows.Forms.PreviewKeyDownEventHandler(this.textBox_PreviewKeyDown);
             // 
@@ -126,7 +125,6 @@
             this.intellisense.Name = "intellisense";
             this.intellisense.Size = new System.Drawing.Size(104, 95);
             this.intellisense.TabIndex = 2;
-            this.intellisense.PreviewKeyDown += new System.Windows.Forms.PreviewKeyDownEventHandler(this.intellisense_PreviewKeyDown);
             // 
             // splitContainer1
             // 
@@ -319,7 +317,6 @@
             this.toolStripComboBox.Name = "toolStripComboBox";
             this.toolStripComboBox.Size = new System.Drawing.Size(121, 25);
             this.toolStripComboBox.DropDownClosed += new System.EventHandler(this.toolStripComboBox_DropDownClosed);
-            this.toolStripComboBox.Click += new System.EventHandler(this.toolStripComboBox_Click);
             // 
             // sfd
             // 
