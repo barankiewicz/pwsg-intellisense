@@ -1,0 +1,43 @@
+h:\Windows7\Desktop\PWSG\lab3\lab3\bin\Debug\lab3.exe.config
+h:\Windows7\Desktop\PWSG\lab3\lab3\bin\Debug\lab3.exe
+h:\Windows7\Desktop\PWSG\lab3\lab3\bin\Debug\lab3.pdb
+h:\Windows7\Desktop\PWSG\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+h:\Windows7\Desktop\PWSG\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+h:\Windows7\Desktop\PWSG\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.Cache
+h:\Windows7\Desktop\PWSG\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\PWSG\lab3\lab3\obj\Debug\lab3.exe
+h:\Windows7\Desktop\PWSG\lab3\lab3\obj\Debug\lab3.pdb
+h:\Windows7\Desktop\PWSG\lab3\lab3\obj\Debug\lab3.Form1.resources
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\bin\Debug\lab3.exe.config
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\bin\Debug\lab3.exe
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\bin\Debug\lab3.pdb
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.Form1.resources
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.Cache
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.exe
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.pdb
+X:\Programming\C#\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.AddWord.resources
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.AddWord.resources
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.Cache
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\spankie\Projekty (Programowanie)\pwsg_winforms1\lab3\lab3\obj\Debug\lab3.pdb
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\bin\Debug\lab3.exe.config
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\bin\Debug\lab3.exe
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\bin\Debug\lab3.pdb
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\obj\Debug\lab3.AddWord.resources
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\obj\Debug\lab3.Form1.resources
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\obj\Debug\lab3.Properties.Resources.resources
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\obj\Debug\lab3.csproj.GenerateResource.Cache
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\obj\Debug\lab3.exe
+X:\Programming\C#\PWSG\pwsg-intellisense\intelliSense\lab3\obj\Debug\lab3.pdb
