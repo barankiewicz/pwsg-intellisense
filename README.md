@@ -1,5 +1,21 @@
-# pwsg-intellisense
+# IntelliSense
+
 a (very) basic implementation of IntelliSense in WinForms. Written as part of the GUI programming course on MiNI, WUT. This application has a set of features we had to implement on our own during the course:
+
+## Installation
+Download the .exe and run it, or download the project and build it yourself!
+
+## Features
+
+- Application starts out with an empty screen and waits for the using to log in
+- There are two hard-coded users:
+	1) login: mini, password: pw
+	2) login: wpf, password: iseasy
+- After logging in, user can see the list of received and sent emails on the left
+- If you select one of the items in the list, it gives you more information about it and also displays it's content in the center part of the application
+- You can filter the messages using the search bar at the top
+- You can write a new email. The list of sent emails will update if you do so.
+- The app can work in English and Polish, you can change the language in runtime instantly
 
 ## Part 1
 *  ###    Appearance:
@@ -40,3 +56,7 @@ a (very) basic implementation of IntelliSense in WinForms. Written as part of th
     * You make the textbox font bold, italic, underlined. You can also change the font, font's color and the background color
 *  ### Drag&Drop:
     *   You can load a new dictionary by draggin a .txt file on the dictionary panel
+	
+## Screenshot
+![Screenshot](https://i.imgur.com/KTg7Bfn.png)
+
