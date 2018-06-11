@@ -7,16 +7,6 @@ Download the .exe and run it, or download the project and build it yourself!
 
 ## Features
 
-- Application starts out with an empty screen and waits for the using to log in
-- There are two hard-coded users:
-	1) login: mini, password: pw
-	2) login: wpf, password: iseasy
-- After logging in, user can see the list of received and sent emails on the left
-- If you select one of the items in the list, it gives you more information about it and also displays it's content in the center part of the application
-- You can filter the messages using the search bar at the top
-- You can write a new email. The list of sent emails will update if you do so.
-- The app can work in English and Polish, you can change the language in runtime instantly
-
 ## Part 1
 *  ###    Appearance:
     *   Appears in the middle of the screen
